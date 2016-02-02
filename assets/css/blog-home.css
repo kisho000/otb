@@ -1,0 +1,51 @@
+/*!
+ * Start Bootstrap - Blog Home HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+   background-color: #AAAAAA;
+
+
+}
+
+footer {
+    margin: 50px 0;
+}
+
+
+.pagina11 {
+
+		background-color:#DDDDDD;
+	border:1px solid #333;
+
+
+}
+.fondotb{
+       background-image:url(../../archivos/imagenes_apoyo/junta211.jpg);
+       border:1px solid #333;
+}
+
+.boxhorafecha{
+      	background-color:#F7F7F7;
+	border:1px solid #333;
+}
+.boxaute{
+
+	border:2px solid #333;
+}
+.cuadroM{
+
+	border:1px solid #333;
+}
+
+.cuadrobotonAute{
+       width: 100%;
+}
+
+.cuadrofinal1{
+       color:#FFFFFF;
+       background-color:#555555;
+}
