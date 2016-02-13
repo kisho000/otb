@@ -1,6 +1,6 @@
 <?php require_once('Connections/server_otb.php'); ?>
 <?php
-//initialize the session
+//initialize the sessionllllllllllllllllllllllllllll
 if (!isset($_SESSION)) {
   session_start();
 }
