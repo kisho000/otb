@@ -1,3 +1,4 @@
+// aqui esta la prueba
 <?php require_once('Connections/server_otb.php'); ?>
 <?php
 if (!function_exists("GetSQLValueString")) {
